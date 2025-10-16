@@ -1,0 +1,18 @@
+boody { 
+  background-color:#ffffEO;/* warna kuning cerah */
+  font-famiy:arial,sans-serif;/* jenis huruf yang bersih dan mudah color:#191970;/*warna teks utama (biru gelap)
+}
+
+.kartu-profil {
+  width: 300px;
+  margin:50px auto;
+  pandding:20px;
+  backround-color:white;
+  border-radius:15px;
+  box-shaduw:0 4px 8px rgba(0,0,0,0.1)/*efek bayang */
+  text-aling:center;
+}
+.kartu-profil ing {
+  width:150px;
+  border-radius:50%
+}
